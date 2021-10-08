@@ -1,0 +1,27 @@
+2020-02-15T20:19:34.238-07:00[America/Denver] test Success
+2020-02-15T20:22:46.686-07:00[America/Denver] User:test Login Attempt:  Success
+2020-02-15T20:26:57.991-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T20:30:10.270-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T20:32:23.943-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T20:42:11.225-07:00[America/Denver] User: shawn Login_Attempt:  Success
+2020-02-15T20:58:24.877-07:00[America/Denver] User: shawn Login_Attempt:  Success
+2020-02-15T21:00:13.156-07:00[America/Denver] User: bob Login_Attempt:  Failure
+2020-02-15T21:00:21.404-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T22:04:30.074-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T22:15:46.502-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T23:18:02.804-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T23:34:19.333-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T23:35:37.687-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-15T23:37:40.971-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T00:14:32.131-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:15:24.932-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:16:59.100-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:21:02.635-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:22:12.755-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:23:26.198-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:24:39.728-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:25:41.319-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T08:26:34.964-07:00[America/Denver] User: test Login_Attempt:  Success
+2020-03-17T13:15:15.857-06:00[America/Denver] User: test Login_Attempt:  Success
+2020-03-17T13:15:53.361-06:00[America/Denver] User: test Login_Attempt:  Success
+2020-02-16T00:42:43.970-07:00[America/Denver] User: test Login_Attempt:  Success
